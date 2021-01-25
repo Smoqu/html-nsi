@@ -1,0 +1,31 @@
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h1,
+h2 {
+  text-decoration: underline;
+  color: #90111a;
+}
+
+h2:hover {
+  background-color: black;
+}
+
+.lang {
+  color: #ff961d;
+}
+
+#html-lang {
+  color: green;
+}
+
+#css-lang {
+  color: rgb(221, 0, 0);
+}
+
+.wikipedia-ref {
+  font-style: italic;
+  color: purple;
+}
